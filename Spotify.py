@@ -62,8 +62,8 @@ class Spotify_API:
     def __init__(self):
 
         #Client Details
-        self.Client_ID = "efaf7fb1b79b4aba9fbe85f227615f4b"
-        self.Client_Secret = "53276fb8e44f45549dd3cec05f2fb854"
+        self.Client_ID = #Client ID
+        self.Client_Secret = #Client Secret
 
         #Decode client details
         Client_Details = f"{self.Client_ID}:{self.Client_Secret}"
